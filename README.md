@@ -8,7 +8,7 @@
 
 * Mission :
   
-Le Consortium Africain pour la Science des Données (ACoDS) est dédié à promouvoir la collaboration, l'innovation et l'excellence en science des données à travers le continent africain. Notre mission est d'autonomiser les individus, les institutions et les nations avec les connaissances et les compétences nécessaires pour exploiter le potentiel transformateur des données.
+Le Consortium Africain pour la Science des Données (CApSD) est dédié à promouvoir la collaboration, l'innovation et l'excellence en science des données à travers le continent africain. Notre mission est d'autonomiser les individus, les institutions et les nations avec les connaissances et les compétences nécessaires pour exploiter le potentiel transformateur des données.
 
 * Objectifs Clés :
 
